@@ -100,7 +100,7 @@ Connection events are monitored to handle reconnections if needed.
 8. Conclusion
 This real-time chat application demonstrates how WebSocket-based communication works in a Node.js environment. It showcases the power of Socket.IO for building responsive, event-driven applications.
 
+The application is scalable, meaning additional features like usernames, private messages, chat rooms, and message storage in databases can be added easily. The knowledge gained from this project is applicable to various real-time systems, including multiplayer games, live collaboration tools, and online customer support systems.
+
 OUTPUT-
 
-
-The application is scalable, meaning additional features like usernames, private messages, chat rooms, and message storage in databases can be added easily. The knowledge gained from this project is applicable to various real-time systems, including multiplayer games, live collaboration tools, and online customer support systems.
