@@ -1,0 +1,15 @@
+{
+  "name": "chatapp2nd",
+  "version": "1.0.0",
+  "description": "Real-time chat app using Socket.IO for CodTech Internship Task 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aditya Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
