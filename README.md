@@ -103,4 +103,4 @@ This real-time chat application demonstrates how WebSocket-based communication w
 The application is scalable, meaning additional features like usernames, private messages, chat rooms, and message storage in databases can be added easily. The knowledge gained from this project is applicable to various real-time systems, including multiplayer games, live collaboration tools, and online customer support systems.
 
 OUTPUT-
-
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/3bd89eb8-feee-437b-9b37-a0b4626b4ee1" />
